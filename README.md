@@ -1,3 +1,3 @@
 # Universidad de Belgrano
 
-Programming course
+Object-oriented programming tutorial in C++
