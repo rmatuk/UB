@@ -1,3 +1,3 @@
 # Universidad de Belgrano
 
-Some lecture notes on object oriented programming and artificial neural networks
+Lecture notes on object oriented programming and artificial neural networks
