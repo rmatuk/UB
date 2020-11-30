@@ -1,3 +1,3 @@
-# Universidad de Belgrano notes
+# Universidad de Belgrano
 
-Object-oriented programming tutorial in C++
+Some lecture notes
